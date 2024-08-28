@@ -1,0 +1,6 @@
+*.pyc
+
+/data
+*.pth
+*.json
+/results
